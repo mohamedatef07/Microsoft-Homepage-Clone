@@ -6,7 +6,7 @@ Features:
 - Clean and modern design inspired by Microsoft's official homepage.
 - Functional navigation bar with links to key sections.
 - Includes visually appealing sections for showcasing products and services.
-- 
+  
 Technologies Used:
-HTML5 for the structure.
-CSS3 for styling and layout.
+- HTML5 for the structure.
+- CSS3 for styling and layout.
